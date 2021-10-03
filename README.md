@@ -1,8 +1,8 @@
 # [Cassette Nest](https://cassettenest.com) Policies, Terms, and Legal Stuff
 
+- [Terms of Service](terms.md#terms-of-service)
 - [Privacy Policy](privacy.md#privacy-policy)
 - [Use Restrictions](abuse.md#use-restrictions)
-- [Terms of Service](terms.md#terms-of-service)
 
 ---
 
