@@ -34,7 +34,7 @@ When you browse our marketing sites or applications, your browser automatically 
 With a couple of minor exceptions, the data you add to Cassette Nest is only visible to you when you're logged in. Those exceptions are:
 
 1. New Film Stocks and Films.
-    - If you [add a custom film stock to the system](/changelog/2020-10-17/) and it is made public for the benefit of all Cassette Nest users, the [film stock](/docs/stocks) (and some information about its associated film formats) will be available to all other logged-in users to add to their collection of rolls as well as publicly on [the film stocks section of the application](https://app.cassettenest.com/stocks/). **No information associated with you will be displayed.**
+    - If you [add a custom film stock to the system](https://cassettenest.com/changelog/2020-10-17/) and it is made public for the benefit of all Cassette Nest users, the [film stock](https://cassettenest.com/docs/stocks) (and some information about its associated film formats) will be available to all other logged-in users to add to their collection of rolls as well as publicly on [the film stocks section of the application](https://app.cassettenest.com/stocks/). **No information associated with you will be displayed.**
 2. Anonymous counts of rolls of films.
     - Any publicly-viewable film stock will show counts of how many rolls of said stock (and its associated film formats) are in the system. **No other information about your rolls of film will be made public**; only that anonymous count.
 
@@ -60,7 +60,7 @@ Our default practice is to not access your information. The only times we’ll e
 
 **To help you troubleshoot or squash a software bug, with your permission.**
 
-**To investigate, prevent, or take action regarding [restricted uses](/policies/abuse/).**  If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+**To investigate, prevent, or take action regarding [restricted uses](abuse.md).**  If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 
 **When required under applicable law.**
 
