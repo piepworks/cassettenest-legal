@@ -1,8 +1,8 @@
 # Cassette Nest Policies, Terms, and Legal Stuff
 
-- [Privacy Policy](privacy.md)
-- [Use Restrictions](abuse.md)
-- [Terms of Service](terms.md)
+- [Privacy Policy](privacy.md#privacy-policy)
+- [Use Restrictions](abuse.md#use-restrictions)
+- [Terms of Service](terms.md#terms-of-service)
 
 ---
 
