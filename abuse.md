@@ -3,7 +3,9 @@ title: Use Restrictions
 description: It is not okay to use Trey Labs products for these restricted purposes.
 ---
 
-_Last updated: Tuesday, March 16, 2021_
+# Use Restrictions
+
+_Last updated: October 3, 2021_
 
 We recognize that however good the maker’s intentions, technology can amplify the ability to cause great harm. That’s why we’ve established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Trey Labs products are used (and abused) to further such harm, and to state unequivocally that Trey Labs products are not a safe haven for people who wish to commit such harm. If you have an account with any of our products, you can’t use them for any of the restricted purposes listed below. If we find out you are, we will take action.
 
@@ -27,11 +29,6 @@ While our use restrictions are comprehensive, they can’t be exhaustive — it�
 Please alert us at [boss@treylabs.com](mailto:boss@treylabs.com). If you’re not 100% sure if something rises to the level of our use restrictions policy, report it anyway.
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. We will not disclose your identity to anyone associated with the reported account.
-
-{% comment %}
-The following bit is from:
-https://github.com/basecamp/policies/blob/4eaed0751596a377bf439c063084511c9737bd60/abuse/how-we-handle/index.md
-{% endcomment %}
 
 ---
 

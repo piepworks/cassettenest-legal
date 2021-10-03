@@ -3,7 +3,9 @@ title: Terms of Service
 description: All the terms that you agree to when you sign up for a Trey Labs product.
 ---
 
-_Last updated: March 2, 2021_
+# Terms of Service
+
+_Last updated: October 3, 2021_
 
 From everyone at [Trey Labs](https://treylabs.com) (right now, that’s just me, [Trey](https://treypiepmeier.com) 👋🏻), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
