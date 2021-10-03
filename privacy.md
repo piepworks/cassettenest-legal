@@ -60,7 +60,7 @@ Our default practice is to not access your information. The only times we’ll e
 
 **To help you troubleshoot or squash a software bug, with your permission.**
 
-**To investigate, prevent, or take action regarding [restricted uses](abuse.md).**  If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+**To investigate, prevent, or take action regarding [restricted uses](abuse.md#use-restrictions).**  If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 
 **When required under applicable law.**
 

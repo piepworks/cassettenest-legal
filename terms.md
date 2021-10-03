@@ -24,7 +24,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 ## Account Terms
 
 1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation.
-2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](abuse.md).
+2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](abuse.md#use-restrictions).
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who have access to your login credentials.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
 
@@ -39,7 +39,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 2. After cancellation, there is _currently no change in the functionality of the application_, but in the future, it will put your account into a **read-only** mode.
 3. After you’ve requested your subscription to be canceled, your subscription will still be fully active until your current billing period ends. If you’d like to cancel it immediately, [let us know][feedback], and we’ll manually cancel it immediately.
 4. Currently, there is no self-service way of entirely canceling and deleting your account except by [contacting us][feedback]. We plan to offer that as a self-service option in the future.
-5. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because eventually we’re going to find someone doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. _We will not resort to this lightly. Just be cool, and we’ll be cool._ For more details, see our [Use Restrictions policy](abuse.md).
+5. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because eventually we’re going to find someone doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. _We will not resort to this lightly. Just be cool, and we’ll be cool._ For more details, see our [Use Restrictions policy](abuse.md#use-restrictions).
 6. Verbal, physical, written or other abuse (including threats of abuse or retribution) of **anyone** will result in immediate account termination.
 
 ## Modifications to the Service and Prices
@@ -52,7 +52,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis.
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups and encryption.
-4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Trey Labs may process your data as described in our [Privacy Policy](privacy.md) and for no other purpose.
+4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Trey Labs may process your data as described in our [Privacy Policy](privacy.md#privacy-policy) and for no other purpose.
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [DigitalOcean](https://www.digitalocean.com) and [Netlify](https://www.netlify.com) for our hosting and [Paddle](https://paddle.com) for payment processing.
 
 ## Copyright and Content Ownership
