@@ -81,4 +81,4 @@ In other words: choosing to use our Services does mean you are making a bet on u
 If you have a question about any of the Terms of Service, please [contact us][feedback].
 
 
-[feedback]: /feedback/
+[feedback]: https://cassettenest.com/feedback/
