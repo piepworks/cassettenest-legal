@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy Policy
 
-_Last updated: October 3, 2021_
+_Last updated: October 22, 2021_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -112,6 +112,6 @@ Our products and other web properties are operated in the United States. If you 
 
 ## Changes & questions
 
-We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since October 2021 [on GitHub](https://github.com/trey/cn-policies/commits/main). Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
+We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since October 2021 [on GitHub](https://github.com/treylabs/cassettenest-legal/commits/main). Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [boss@treylabs.com](mailto:boss@treylabs.com) and we’ll be happy to answer them!
