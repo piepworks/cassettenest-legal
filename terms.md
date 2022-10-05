@@ -15,7 +15,7 @@ When we say “Services”, we mean any product created and maintained by Piepwo
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
-We may update these Terms of Service in the future. You can track all changes made since October 2021 [on GitHub](https://github.com/treylabs/cassettenest-legal/commits/main).  Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
+We may update these Terms of Service in the future. You can track all changes made since October 2021 [on GitHub](https://github.com/piepworks/cassettenest-legal/commits/main).  Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
