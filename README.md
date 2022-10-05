@@ -1,5 +1,5 @@
-<img src="https://cassettenest.com/img/icon.svg" alt="Cassette Nest Icon" width="40" height="40" />
-  
+<img src="https://cassettenest.com/assets/img/icon.svg" alt="Cassette Nest Icon" width="40" height="40" />
+
 # [Cassette Nest](https://cassettenest.com) Policies, Terms, and Legal Stuff
 
 - [Terms of Service](terms.md#terms-of-service)

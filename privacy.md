@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy Policy
 
-_Last updated: October 22, 2021_
+_Last updated: October 5, 2022_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Trey Labs.
+This policy applies to all products built and maintained by Piepworks.
 
 ## What we collect and why
 
@@ -17,11 +17,11 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a Trey Labs product, we typically ask for identifying information such as your name and email address. That’s just so you can personalize your new account, and we can send you updates or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
+When you sign up for a Piepworks product, we typically ask for identifying information such as your name and email address. That’s just so you can personalize your new account, and we can send you updates or other essential information. We’ll never sell your personal info to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-When you pay for a Trey Labs product, you work directly with our payment processing service, [Paddle](https://paddle.com). Your credit card number never goes through our servers. We store your unique Paddle ID and some subscription information in order to determine which plan you’re subscribed to and its status.
+When you pay for a Piepworks product, you work directly with our payment processing service, [Paddle](https://paddle.com). Your credit card number never goes through our servers. We store your unique Paddle ID and some subscription information in order to determine which plan you’re subscribed to and its status.
 
 ### Website interactions
 
@@ -44,7 +44,7 @@ We do use persistent first-party cookies to store certain preferences and make i
 
 ### Voluntary correspondence
 
-When you write Trey Labs with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
+When you write Piepworks with a question or to ask for help, we keep that correspondence, including the email address, so that we have a history of past correspondences to reference if you reach out in the future.
 
 We also store any information you volunteer like surveys. Sometimes when we do customer interviews, we may ask for your permission to record the conversation for future reference or use. We only do so if you give your express consent.
 
@@ -64,23 +64,23 @@ Our default practice is to not access your information. The only times we’ll e
 
 **When required under applicable law.**
 
-Trey Labs LLC is a US company and all data infrastructure are located in the US.
+Piepworks LLC is a US company and all data infrastructure are located in the US.
 
-* If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Trey Labs with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
-* Similarly, if Trey Labs receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so.
+* If US law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring we share data, we have to comply. Otherwise, we flat-out reject requests from local and federal law enforcement when they seek data. And unless we’re legally prevented from it, we’ll always inform you when such requests are made. In the event a government authority outside the US approaches Piepworks with a request, our default stance is to refuse unless the US government compels us to comply through procedures outlined in a mutual legal assistance treaty or agreement.
+* Similarly, if Piepworks receives a request to preserve data, we refuse unless compelled by either the US Federal Stored Communications Act, 18 U.S.C. Section 2703(f) or a properly served US subpoena for civil matters. In both of these situations, we have to comply. In these situations, we notify affected customers as soon as possible unless we are legally prohibited from doing so.
 * If we get an informal request from any person, organization, or entity, we do not assist. If you are an account owner who wants to export data from their accounts, you can do so directly from [your settings page](https://app.cassettenest.com/settings/#export).
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we only share the bare minimum needed.
 
-Finally, if Trey Labs LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
+Finally, if Piepworks LLC is acquired by or merged with another company — we don’t plan on that, but if it happens — we’ll notify you well before any info about you is transferred and becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
-At Trey Labs, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Trey Labs recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
+At Piepworks, we apply the same data rights to all customers, regardless of their location. Currently some of the most privacy-forward regulations in place are the European Union’s General Data Protection Regulation (“GDPR”) and California Consumer Privacy Act (“CCPA”) in the US. Piepworks recognizes all of the rights granted in these regulations, except as limited by applicable law. These rights include:
 
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 * **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Trey Labs services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+* **Right to Erasure / “To be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, all of our service providers. Fulfillment of some data deletion requests may prevent you from using Piepworks services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority. To identify your specific authority or find out more about this right, EU individuals should go to [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
@@ -90,7 +90,7 @@ At Trey Labs, we apply the same data rights to all customers, regardless of thei
 
 Many of these rights can be exercised by signing in and directly updating your account information.
 
-If you have questions about exercising these rights or need assistance, please contact us at [boss@treylabs.com](mailto:boss@treylabs.com). For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please contact us at [tech@piepworks.com](mailto:tech@piepworks.com). For requests to delete personal information or know what personal information has been collected, we will first verify your identity using a combination of at least two pieces of information already collected including your user email address. If an authorized agent is corresponding on your behalf, we will first need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU, you can identify your specific authority to file a complaint or find out more about GDPR, at [https://edpb.europa.eu/about-edpb/board/members_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
@@ -114,4 +114,4 @@ Our products and other web properties are operated in the United States. If you 
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies since October 2021 [on GitHub](https://github.com/treylabs/cassettenest-legal/commits/main). Whenever we make a significant change to our policies, we will also announce them on [our changelog](https://cassettenest.com/changelog/).
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [boss@treylabs.com](mailto:boss@treylabs.com) and we’ll be happy to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [tech@piepworks.com](mailto:tech@piepworks.com) and we’ll be happy to answer them!

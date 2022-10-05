@@ -1,17 +1,17 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a Trey Labs product.
+description: All the terms that you agree to when you sign up for a Piepworks product.
 ---
 
 # Terms of Service
 
-_Last updated: October 22, 2021_
+_Last updated: October 5, 2022_
 
-From everyone at [Trey Labs](https://treylabs.com) (right now, that’s just me, [Trey](https://treypiepmeier.com) 👋🏻), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
+From everyone at [Piepworks](https://piep.works), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Trey Labs LLC.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Piepworks LLC.
 
-When we say “Services”, we mean any product created and maintained by Trey Labs LLC.
+When we say “Services”, we mean any product created and maintained by Piepworks LLC.
 
 When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
@@ -19,7 +19,7 @@ We may update these Terms of Service in the future. You can track all changes ma
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://treylabs.com), [how we work](https://treypiepmeier.com/words/tag/cassettenest/), and keeping an open door to [your feedback][feedback].
+If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://piep.works), [how we work](https://treypiepmeier.com/words/tag/cassettenest/), and keeping an open door to [your feedback][feedback].
 
 ## Account Terms
 
@@ -52,7 +52,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 1. Your use of the Services is at your sole risk. We provide these Services on an “as is” and “as available” basis.
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups and encryption.
-4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Trey Labs may process your data as described in our [Privacy Policy](privacy.md#privacy-policy) and for no other purpose.
+4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Piepworks may process your data as described in our [Privacy Policy](privacy.md#privacy-policy) and for no other purpose.
 5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [DigitalOcean](https://www.digitalocean.com) and [Netlify](https://www.netlify.com) for our hosting and [Paddle](https://paddle.com) for payment processing.
 
 ## Copyright and Content Ownership
@@ -60,7 +60,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 1. All content posted on the Services must comply with U.S. copyright law.
 2. We claim no intellectual property rights over the material you provide to the Services. All materials you add remain yours.
 3. We do not pre-screen content, but reserve the right (but not the obligation) in our sole discretion to refuse or remove any content that is available via the Service.
-4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logo or any Service logos for promotional purposes. Please [email us](mailto:boss@treylabs.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
+4. The names, look, and feel of the Services are copyright© to the Company. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML, CSS, JavaScript, or visual design elements without express written permission from the Company. You must request permission to use the Company’s logo or any Service logos for promotional purposes. Please [email us](mailto:tech@piepworks.com) requests to use logos. We reserve the right to rescind this permission if you violate these Terms of Service.
 5. You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Services, use of the Services, or access to the Services without the express written permission by the Company.
 6. You must not modify another website so as to falsely imply that it is associated with the Services or the Company.
 
