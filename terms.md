@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Piepworks pr
 
 # Terms of Service
 
-_Last updated: October 5, 2022_
+_Last updated: October 24, 2022_
 
 From everyone at [Piepworks](https://piep.works), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -35,10 +35,10 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 
 ## Cancellation and Termination
 
-1. You are solely responsible for properly canceling your subscription. You can cancel your subscription at any time via [the Subscription section of your settings page](https://app.cassettenest.com/settings/#subscription). If you need help cancelling your subscription, you can always [contact us][feedback]
+1. You are solely responsible for properly cancelling your subscription. You can cancel your subscription at any time via [the Subscription section of your settings page](https://app.cassettenest.com/settings/#subscription). If you need help cancelling your subscription, you can always [contact us][feedback]
 2. After cancellation, there is _currently no change in the functionality of the application_, but in the future, it will put your account into a **read-only** mode.
 3. After you’ve requested your subscription to be canceled, your subscription will still be fully active until your current billing period ends. If you’d like to cancel it immediately, [let us know][feedback], and we’ll manually cancel it immediately.
-4. Currently, there is no self-service way of entirely canceling and deleting your account except by [contacting us][feedback]. We plan to offer that as a self-service option in the future.
+4. Currently, there is no self-service way of entirely cancelling and deleting your account except by [contacting us][feedback]. We plan to offer that as a self-service option in the future.
 5. We have the right to suspend or terminate your account and refuse any and all current or future use of our Services for any reason at any time. Suspension means you will not be able to access the account or any content in the account. Termination will furthermore result in the deletion of your account or your access to your account, and the forfeiture and relinquishment of all content in your account. We also reserve the right to refuse the use of the Services to anyone for any reason at any time. We have this clause because eventually we’re going to find someone doing something nefarious. There are some things we staunchly stand against and this clause is how we exercise that stance. _We will not resort to this lightly. Just be cool, and we’ll be cool._ For more details, see our [Use Restrictions policy](abuse.md#use-restrictions).
 6. Verbal, physical, written or other abuse (including threats of abuse or retribution) of **anyone** will result in immediate account termination.
 
