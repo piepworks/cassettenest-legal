@@ -5,7 +5,7 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy Policy
 
-_Last updated: October 5, 2022_
+_Last updated: July 13, 2023_
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data: never have, never will.
 
@@ -96,7 +96,7 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. All offsite database backups are also encrypted.
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser.
 
 Data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it) or in backups stored on the server for no more than 30 days, but we go to great lengths to secure your data at rest.
 

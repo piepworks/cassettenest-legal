@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for a Piepworks pr
 
 # Terms of Service
 
-_Last updated: May 27, 2023_
+_Last updated: July 13, 2023_
 
 From everyone at [Piepworks](https://piep.works), thank you for using our products! We build them to help you get the most out of your film photography. Because we don’t know every one of our users personally, we have to put in place some Terms of Service to help keep the ship afloat.
 
@@ -52,7 +52,7 @@ Billing is managed through [Paddle](https://www.paddle.com) and all plan managem
 2. We reserve the right to temporarily disable your account if your usage significantly exceeds the average usage of other customers of the Services. Of course, we’ll reach out to the account owner before taking any action except in rare cases where the level of use may negatively impact the performance of the Service for other customers.
 3. We take many measures to protect and secure your data through backups and encryption.
 4. When you use our Services, you entrust us with your data. We take that trust to heart. You agree that Piepworks may process your data as described in our [Privacy Policy](privacy.md#privacy-policy) and for no other purpose.
-5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [DigitalOcean](https://www.digitalocean.com) for our hosting and [Paddle](https://paddle.com) for payment processing.
+5. We use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Services. In other words, we use [Fly](https://fly.io) and [DigitalOcean](https://www.digitalocean.com) for our hosting, [Paddle](https://paddle.com) for payment processing, and [DigitalOcean Spaces](https://www.digitalocean.com/products/spaces) for some file storage and backups.
 
 ## Copyright and Content Ownership
 
